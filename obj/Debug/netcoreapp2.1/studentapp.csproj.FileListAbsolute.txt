@@ -1,0 +1,14 @@
+C:\Users\ddisanka\Desktop\University_app\studentapp\obj\Debug\netcoreapp2.1\studentapp.csprojAssemblyReference.cache
+C:\Users\ddisanka\Desktop\University_app\studentapp\obj\Debug\netcoreapp2.1\studentapp.csproj.CoreCompileInputs.cache
+C:\Users\ddisanka\Desktop\University_app\studentapp\obj\Debug\netcoreapp2.1\studentapp.RazorAssemblyInfo.cache
+C:\Users\ddisanka\Desktop\University_app\studentapp\obj\Debug\netcoreapp2.1\studentapp.RazorAssemblyInfo.cs
+C:\Users\ddisanka\Desktop\University_app\studentapp\obj\Debug\netcoreapp2.1\studentapp.AssemblyInfoInputs.cache
+C:\Users\ddisanka\Desktop\University_app\studentapp\obj\Debug\netcoreapp2.1\studentapp.AssemblyInfo.cs
+C:\Users\ddisanka\Desktop\University_app\studentapp\bin\Debug\netcoreapp2.1\studentapp.deps.json
+C:\Users\ddisanka\Desktop\University_app\studentapp\bin\Debug\netcoreapp2.1\studentapp.runtimeconfig.json
+C:\Users\ddisanka\Desktop\University_app\studentapp\bin\Debug\netcoreapp2.1\studentapp.runtimeconfig.dev.json
+C:\Users\ddisanka\Desktop\University_app\studentapp\bin\Debug\netcoreapp2.1\studentapp.dll
+C:\Users\ddisanka\Desktop\University_app\studentapp\bin\Debug\netcoreapp2.1\studentapp.pdb
+C:\Users\ddisanka\Desktop\University_app\studentapp\obj\Debug\netcoreapp2.1\studentapp.RazorTargetAssemblyInfo.cache
+C:\Users\ddisanka\Desktop\University_app\studentapp\obj\Debug\netcoreapp2.1\studentapp.dll
+C:\Users\ddisanka\Desktop\University_app\studentapp\obj\Debug\netcoreapp2.1\studentapp.pdb
